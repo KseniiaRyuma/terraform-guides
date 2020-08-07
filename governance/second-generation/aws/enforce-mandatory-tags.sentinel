@@ -5,7 +5,7 @@
 
 ##### Imports #####
 
-import "tfplan"
+import "tfconfig"
 import "strings"
 import "types"
 
