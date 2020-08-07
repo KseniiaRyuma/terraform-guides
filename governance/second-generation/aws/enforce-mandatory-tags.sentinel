@@ -5,7 +5,7 @@
 
 ##### Imports #####
 
-import "tfconfig"
+import "tfstate"
 import "strings"
 import "types"
 
